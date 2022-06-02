@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Main" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+rect_min_size = Vector2( 1080, 2340 )
+color = Color( 0.917647, 0.756863, 0.996078, 1 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
